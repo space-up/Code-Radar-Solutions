@@ -1,8 +1,6 @@
 #include <stdio.h>
 
 
-    return "Welcome to Code Radar!";
-}
 
 int main() {
     char alp;
