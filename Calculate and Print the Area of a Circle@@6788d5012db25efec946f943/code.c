@@ -2,8 +2,8 @@
 int main() {
     float a;
     float b;
-    scanf("%.1f",&a);
-    b = (a*a)3.14;
+    scanf("%f",&a);
+    b = 3.14(a*a);
     prinf("Area: %.2f",b);
     return 0;
 }
