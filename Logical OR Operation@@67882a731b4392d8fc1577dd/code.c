@@ -10,5 +10,6 @@ int main() {
     else (a<0||b<0) {
         printf("False");
     }
+    }
     return 0;
 }
