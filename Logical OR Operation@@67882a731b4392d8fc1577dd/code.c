@@ -5,11 +5,11 @@ int main() {
     scanf("%d",&a);
     scanf("%d"&b);
     if (a > 0 || b > 0) {
-        printf("True");
+        printf("True\n");
     }
     else if (a < 0 || b < 0) {
-        printf("False");
+        printf("False\n");
     }
-    
+
     return 0;
 }
