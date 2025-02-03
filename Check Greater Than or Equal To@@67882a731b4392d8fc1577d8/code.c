@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main()  {
-    float a;
-    scanf("%f",&a);
-    float b;
-    scanf("%f",&b);
+    int a;
+    scanf("%d",&a);
+    int b;
+    scanf("%d",&b);
     if (a>=b){
         printf("True");
     }
