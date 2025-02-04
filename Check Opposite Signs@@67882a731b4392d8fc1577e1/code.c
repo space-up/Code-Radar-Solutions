@@ -4,9 +4,6 @@ int main() {
     scanf("%d",&a);
     int b;
     scanf("%d",&b);
-    if ((a<0 && b<0) || (a>0 && b>0)) {
-        printf("False");
-    }
     if ((a<0 && b>0) || (a>0 && b<0)) {
         printf("True");
     }
