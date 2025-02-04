@@ -7,7 +7,7 @@ int main() {
     if ((a<0 && b<0) || (a>0 && b>0)) {
         printf("False");
     }
-    else {
+    if {
         printf("True");
     }
     return 0;
