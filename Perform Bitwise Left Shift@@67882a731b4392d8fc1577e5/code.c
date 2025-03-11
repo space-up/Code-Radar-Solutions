@@ -1,12 +1,8 @@
 #include <stdio.h>  
 
 int main() {  
-    int number, shiftPositions;  
-
-    // Get user input  
-    printf("Enter the number: ");  
+    int number, shiftPositions;    
     scanf("%d", &number);  
-    printf("Enter the number of positions to shift left: ");  
     scanf("%d", &shiftPositions);  
 
     // Perform left shift operation  
