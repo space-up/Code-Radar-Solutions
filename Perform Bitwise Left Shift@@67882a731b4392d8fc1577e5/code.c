@@ -13,7 +13,7 @@ int main() {
     int result = number << shiftPositions;  
 
     // Output the result  
-    printf("Result of left shifting %d by %d positions: %d\n", number, shiftPositions, result);  
+    printf("%d\n", number, shiftPositions, result);  
 
     return 0;  
 }  
